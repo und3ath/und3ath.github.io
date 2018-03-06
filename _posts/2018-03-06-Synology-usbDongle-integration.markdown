@@ -8,7 +8,7 @@ In this first post i will talk about Synology nas, specialy the DS218J i bought 
 
 I want to connect my nas in wifi using my D-link Dwa131 usb wifi dongle.  
 Surprisingly he does not recognize my device.  
-After googling around it came that the DS218J ony support D-Link DWA131 A1, wich use RTL8192SU chip, while my D-Link DWA131 E1 use a RTL8192EU chip.  
+After googling around it came that the DS218J only support D-Link DWA131 A1, wich use RTL8192SU chip, while my D-Link DWA131 E1 use a RTL8192EU chip.  
 The Synology don't have a driver for that chip.  
 I do not want to purchase another dongle so i decided to figure out how i can integrate myself to fully support my hardware.  
 
